@@ -1,0 +1,12 @@
+# Environment & System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Windows desktop ini
+desktop.ini
+
+# IDE config (opsional)
+.vscode/
+.idea/
